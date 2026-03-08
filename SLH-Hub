@@ -1,0 +1,13 @@
+local Games = {
+    [3101667897] = {
+        Name = "Legends Of Speed",
+        Script = "https://api.jnkie.com/api/v1/luascripts/public/c53706be50b577049bf460203bb1a2f5306ba7f63ce84c9698dc7bd5a0f291f7/download"
+    },
+
+    [3623096087] = {
+        Name = "Muscle Legends",
+        Script = "https://api.jnkie.com/api/v1/luascripts/public/6b6adf92dee0a8226ab48b224b0666817ca537278fb303241fac15e8110d9a4d/download"
+    }
+}
+
+return Games
